@@ -1,7 +1,7 @@
 <div align="center">
    
 # ANSAL CMLS PROJECT
-**Evaluation of 30 cum laude.**
+***Evaluation of 30 cum laude.***
 
 
 For the presentation of this project, we have prepared [slides](ReadmeFiles/ANSAL_Slides_2.pdf), a [report](ANSAL_CMLS_HW_Report.pdf), and a [demo video](https://youtu.be/Nszo1dWtVL0).
